@@ -1,0 +1,2 @@
+1. Learning to use rebase.
+2. Learning to get better in git.s
