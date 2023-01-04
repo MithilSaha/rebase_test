@@ -1,3 +1,7 @@
 1. Git Rebase.
 2. Learn Git.
 3. Doing it now.
+4. Learning to use rebase.
+5. Learning to get better in git.
+6. Doing it.
+7. Created a branch.
