@@ -1,2 +1,3 @@
 1. Learning to use rebase.
-2. Learning to get better in git.s
+2. Learning to get better in git.
+3. Doing it.s
